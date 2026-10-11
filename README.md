@@ -46,7 +46,6 @@ Notes from: **SQL Tutorial - Full Database Course for Beginners** by freeCodeCam
 ## Upcoming
 
 - `DBMS/` — Database Management System concepts
-- More folders as topics expand
 
 ---
 
